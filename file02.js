@@ -1,1 +1,3 @@
-console.log("Hey, I am learning Git")
+console.log("ABC")
+console.log("DEF")
+console.log("GHI")
